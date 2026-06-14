@@ -185,8 +185,14 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
-    "src/assets/openai_sam_potrait.png",
+    "src/content/backup/third-post.md",
+    "src/content/backup/second-post.md",
+    "src/content/backup/markdown-style-guide.md",
+    "src/content/backup/first-post.md",
     "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
+    "src/content/backup",
+    "src/assets/Pasted image 20260614214245.png",
+    "src/assets/openai_sam_potrait.png",
     "src/components/Footer.astro.tmp.17984.f1fe6407e48d",
     "src/components/Header.astro.tmp.17984.7a481f61ee0b",
     "src/components/Footer.astro.tmp.3000.aff290a450c5",
@@ -197,16 +203,11 @@
     "README.md",
     "astro.config.mjs.tmp.27312.a45827c74a08",
     "src/styles/global.css.tmp.27312.d7c2008a9620",
-    "src/components/BaseHead.astro.tmp.27312.73a6256f6c86",
     "src/assets/blog-placeholder-1.jpg",
     "src/assets/blog-placeholder-2.jpg",
     "src/assets/blog-placeholder-3.jpg",
     "src/assets/blog-placeholder-4.jpg",
     "src/assets/blog-placeholder-5.jpg",
-    "src/assets/blog-placeholder-about.jpg",
-    "src/content/blog/first-post.md",
-    "src/content/blog/third-post.md",
-    "src/content/blog/second-post.md",
-    "src/content/blog/markdown-style-guide.md"
+    "src/assets/blog-placeholder-about.jpg"
   ]
 }
