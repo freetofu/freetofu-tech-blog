@@ -5,8 +5,8 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
+	--accent: #1d4ed8;
+	--accent-dark: #1e3a8a;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -17,7 +17,7 @@
 		0 16px 32px rgba(var(--gray), 33%);
 }
 body {
-	font-family: var(--font-atkinson);
+	font-family: var(--font-inter);
 	margin: 0;
 	padding: 0;
 	text-align: left;
@@ -26,8 +26,9 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
-	font-size: 20px;
+	font-size: 19px;
 	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
 }
 main {
 	width: 720px;
@@ -44,6 +45,11 @@ h6 {
 	margin: 0 0 0.5rem 0;
 	color: rgb(var(--black));
 	line-height: 1.2;
+	font-weight: 700;
+	letter-spacing: -0.02em;
+}
+h1 {
+	font-weight: 800;
 }
 h1 {
 	font-size: 3.052em;
@@ -66,9 +72,12 @@ b {
 }
 a {
 	color: var(--accent);
+	text-decoration-thickness: 1px;
+	text-underline-offset: 2px;
+	transition: color 0.15s ease;
 }
 a:hover {
-	color: var(--accent);
+	color: var(--accent-dark);
 }
 p {
 	margin-bottom: 1em;
