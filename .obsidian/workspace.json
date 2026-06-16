@@ -183,8 +183,9 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "d8221ee9a8f5c7de",
+  "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/components/Header.astro.tmp.49272.41c1f1151143",
     "src/pages/about.astro.tmp.48196.8d7ce900561c",
     "src/consts.ts.tmp.48704.b07af82bae78",
     "src/pages/index.astro.tmp.48704.b6b31ee72da6",
@@ -202,7 +203,6 @@
     "src/assets/251107cb-022226.jpg",
     "backup/using-mdx.mdx",
     "backup",
-    "astro.config.mjs.tmp.40404.fcd56dc5f502",
     "src/assets/Pasted image 20260614214245.png",
     "src/content/backup/third-post.md",
     "src/content/backup/second-post.md",
