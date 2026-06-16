@@ -183,8 +183,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "7541a131d2a04892",
+  "active": "d8221ee9a8f5c7de",
   "lastOpenFiles": [
+    "src/consts.ts.tmp.48704.b07af82bae78",
+    "src/pages/index.astro.tmp.48704.b6b31ee72da6",
+    "src/pages/about.astro.tmp.48704.5214d98bad0c",
     "src/assets/real impact of sysmlv2.png",
     "src/content/draft/2026-06-16 SysML v2 does not need ecosystem.md",
     "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
@@ -206,14 +209,11 @@
     "src/content/backup/first-post.md",
     "src/content/backup",
     "src/assets/openai_sam_potrait.png",
-    "src/components/Footer.astro.tmp.17984.f1fe6407e48d",
-    "src/components/Header.astro.tmp.17984.7a481f61ee0b",
     "README.md",
     "src/assets/blog-placeholder-1.jpg",
     "src/assets/blog-placeholder-2.jpg",
     "src/assets/blog-placeholder-3.jpg",
     "src/assets/blog-placeholder-4.jpg",
-    "src/assets/blog-placeholder-5.jpg",
-    "src/assets/blog-placeholder-about.jpg"
+    "src/assets/blog-placeholder-5.jpg"
   ]
 }
