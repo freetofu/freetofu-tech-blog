@@ -185,6 +185,8 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/components/BaseHead.astro.tmp.50140.23f6a187742d",
+    "src/assets/og-default.png",
     "src/components/Header.astro.tmp.49272.41c1f1151143",
     "src/pages/about.astro.tmp.48196.8d7ce900561c",
     "src/consts.ts.tmp.48704.b07af82bae78",
@@ -202,7 +204,6 @@
     "src/assets/seungwon Kim profile photo.jpg",
     "src/assets/251107cb-022226.jpg",
     "backup/using-mdx.mdx",
-    "backup",
     "src/assets/Pasted image 20260614214245.png",
     "src/content/backup/third-post.md",
     "src/content/backup/second-post.md",
@@ -213,7 +214,6 @@
     "src/assets/blog-placeholder-1.jpg",
     "src/assets/blog-placeholder-2.jpg",
     "src/assets/blog-placeholder-3.jpg",
-    "src/assets/blog-placeholder-4.jpg",
-    "src/assets/blog-placeholder-5.jpg"
+    "src/assets/blog-placeholder-4.jpg"
   ]
 }
