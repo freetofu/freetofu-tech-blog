@@ -185,6 +185,7 @@
   },
   "active": "d8221ee9a8f5c7de",
   "lastOpenFiles": [
+    "src/pages/about.astro.tmp.48196.8d7ce900561c",
     "src/consts.ts.tmp.48704.b07af82bae78",
     "src/pages/index.astro.tmp.48704.b6b31ee72da6",
     "src/pages/about.astro.tmp.48704.5214d98bad0c",
@@ -207,7 +208,6 @@
     "src/content/backup/second-post.md",
     "src/content/backup/markdown-style-guide.md",
     "src/content/backup/first-post.md",
-    "src/content/backup",
     "src/assets/openai_sam_potrait.png",
     "README.md",
     "src/assets/blog-placeholder-1.jpg",

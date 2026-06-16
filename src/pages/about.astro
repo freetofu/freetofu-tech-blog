@@ -18,9 +18,9 @@ import Layout from '../layouts/BlogPost.astro';
 		I work on complex systems — defining them as models, and helping the teams who build them put
 		those models to use. For more than six years at Dassault Systèmes, I have worked as a Model-Based
 		Systems Engineering (MBSE) consultant, supporting customers across the automotive, electronics,
-		and defense industries. Using SysML on the 3DEXPERIENCE platform with CATIA Magic, I design
-		system architectures that connect requirements, design, and verification into a single traceable
-		structure.
+		and defense industries. I model systems in SysML with CATIA Magic, and connect that work to the
+		3DEXPERIENCE platform — designing architectures that link requirements, design, and verification
+		into a single traceable structure.
 	</p>
 
 	<p>
@@ -53,6 +53,33 @@ import Layout from '../layouts/BlogPost.astro';
 		The harder the engineering problem, the more I trust a systematic, model-based approach. This is
 		where I write that thinking down.
 	</p>
+
+	<section class="cv">
+		<h2>Experience</h2>
+		<div class="cv-head">
+			<span class="org">Dassault Systèmes</span>
+			<span class="period">Feb 2020 – Present</span>
+		</div>
+		<p class="cv-sub">
+			<strong>MBSE Industry Process Consultant</strong> · Sep 2021 – Present<br />
+			MBSE consulting and proofs of concept for automotive, electronics, and defense customers —
+			including Hyundai Motor, LG Electronics, Korea Aerospace Industries (KAI), and Hyundai Rotem.
+			SysML-based system architecture, model-based simulation, and training.
+		</p>
+		<p class="cv-sub">
+			<strong>ENOVIA Industry Process Consultant</strong> · Feb 2020 – Aug 2021<br />
+			PLM/PDM solution proposals and PoC projects based on customer requirements, including BOM and
+			change-management process analysis.
+		</p>
+
+		<h2>Education</h2>
+		<p class="cv-sub">
+			<strong>M.S. in Systems Engineering</strong> · Ajou University · 2024–2026
+		</p>
+		<p class="cv-sub">
+			<strong>B.S. in Naval Architecture &amp; Ocean Engineering</strong> · Inha University · 2012–2019
+		</p>
+	</section>
 </Layout>
 
 <style>
@@ -72,5 +99,49 @@ import Layout from '../layouts/BlogPost.astro';
 		margin-bottom: 0;
 		font-weight: 600;
 		color: rgb(var(--black));
+	}
+	.cv {
+		margin-top: 3em;
+		border-top: 1px solid rgb(var(--gray-light));
+		padding-top: 1.5em;
+	}
+	.cv h2 {
+		font-size: 1.5rem;
+		margin-top: 1.5em;
+		margin-bottom: 0.6em;
+	}
+	.cv h2:first-child {
+		margin-top: 0;
+	}
+	.cv-head {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 1rem;
+	}
+	.cv-head .org {
+		font-weight: 700;
+		font-size: 1.15rem;
+		color: rgb(var(--black));
+	}
+	.cv-head .period {
+		color: rgb(var(--gray));
+		font-size: 0.9rem;
+		white-space: nowrap;
+	}
+	.cv-sub {
+		margin: 0.6em 0 1.2em 0;
+		color: rgb(var(--gray-dark));
+		font-size: 0.98rem;
+		line-height: 1.6;
+	}
+	.cv-sub strong {
+		color: rgb(var(--black));
+	}
+	@media (max-width: 720px) {
+		.cv-head {
+			flex-direction: column;
+			gap: 0.2rem;
+		}
 	}
 </style>
