@@ -185,11 +185,11 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
+    "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
+    "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
     "src/assets/whyDidKerML.png",
     "src/content/draft/why_kerml_namespace_name_is_optional_en.md",
-    "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
-    "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
-    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
     "src/content/blog/무제.md",
     "src/content/draft/2026-07-14 kerml_namespace_name_optional_blog_draft.md",
     "src/content/draft/2026-07-11 SysML v2 를 사용하는데 도구가 필요한 이유.md",
@@ -217,7 +217,6 @@
     "README.md",
     "src/assets/blog-placeholder-1.jpg",
     "src/assets/blog-placeholder-2.jpg",
-    "src/assets/blog-placeholder-3.jpg",
-    "src/assets/blog-placeholder-4.jpg"
+    "src/assets/blog-placeholder-3.jpg"
   ]
 }

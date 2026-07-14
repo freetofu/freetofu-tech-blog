@@ -1,7 +1,7 @@
 ---
 title: Why Did KerML Make `Namespace::name` Optional?
-description: The wealthiest people in AI are warning us about AI inequality — and that itself tells us something. This essay examines why basic income and redistribution, while necessary, are not enough, and why the most practical response for individuals is to become creators of value rather than recipients of it.Lorem ipsum dolor sit amet
-pubDate: July14 2026
+description: "In KerML, Namespace::name is optional (0..1) — a namespace need not be named. Working from the spec, I interpret why: a name is an address for locating an element, not the element's identity."
+pubDate: Jul14 2026
 heroImage: ../../assets/whyDidKerML.png
 ---
 While reading the KerML specification, one question stood out.
