@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
+                "file": "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Real Impact of SysML v2 Isn't Syntax. It's Control."
+              "title": "Why Did KerML Make `Namespace_name` Optional"
             }
           }
         ]
@@ -185,6 +185,15 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/assets/whyDidKerML.png",
+    "src/content/draft/why_kerml_namespace_name_is_optional_en.md",
+    "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
+    "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
+    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
+    "src/content/blog/무제.md",
+    "src/content/draft/2026-07-14 kerml_namespace_name_optional_blog_draft.md",
+    "src/content/draft/2026-07-11 SysML v2 를 사용하는데 도구가 필요한 이유.md",
+    "src/content/draft/2026-06-16 SysML v2 does not need ecosystem.md",
     "src/components/BaseHead.astro.tmp.50140.23f6a187742d",
     "src/assets/og-default.png",
     "src/components/Header.astro.tmp.49272.41c1f1151143",
@@ -193,17 +202,12 @@
     "src/pages/index.astro.tmp.48704.b6b31ee72da6",
     "src/pages/about.astro.tmp.48704.5214d98bad0c",
     "src/assets/real impact of sysmlv2.png",
-    "src/content/draft/2026-06-16 SysML v2 does not need ecosystem.md",
-    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
-    "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
-    "src/content/blog/무제.md",
     "src/content/draft",
     "src/components/Footer.astro.tmp.37872.35db4fa9bc8a",
     "src/components/Header.astro.tmp.37872.e5d985fa8d79",
     "src/pages/about.astro.tmp.37872.2f844720d27a",
     "src/assets/seungwon Kim profile photo.jpg",
     "src/assets/251107cb-022226.jpg",
-    "backup/using-mdx.mdx",
     "src/assets/Pasted image 20260614214245.png",
     "src/content/backup/third-post.md",
     "src/content/backup/second-post.md",
