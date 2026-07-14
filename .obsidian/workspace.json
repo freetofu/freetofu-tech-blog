@@ -186,6 +186,8 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/components/BaseHead.astro.tmp.44764.7f3870019ada",
+    "package.json.tmp.44764.bb20a7ba4b32",
     "src/layouts/BlogPost.astro.tmp.1528.8aa89106a8d9",
     "src/content/blog/무제.md",
     "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
@@ -207,8 +209,6 @@
     "src/pages/index.astro.tmp.48704.b6b31ee72da6",
     "src/pages/about.astro.tmp.48704.5214d98bad0c",
     "src/assets/real impact of sysmlv2.png",
-    "src/content/draft",
-    "src/components/Footer.astro.tmp.37872.35db4fa9bc8a",
     "src/assets/seungwon Kim profile photo.jpg",
     "src/assets/251107cb-022226.jpg",
     "src/assets/Pasted image 20260614214245.png",
