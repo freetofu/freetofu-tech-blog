@@ -4,8 +4,6 @@ description: The wealthiest people in AI are warning us about AI inequality — 
 pubDate: July14 2026
 heroImage: ../../assets/whyDidKerML.png
 ---
-# Why Did KerML Make `Namespace::name` Optional?
-
 While reading the KerML specification, one question stood out.
 
 A namespace contains other elements and establishes the scope in which its members can be found by name. If that is the case, shouldn't every namespace be required to have a name?
