@@ -1,7 +1,7 @@
 ---
 title: 왜 KerML은 `Property`가 아니라 `Feature`라는 단어를 선택했을까?
 description: SysML v2(KerML)를 공부하다 보면 Feature, Feature Membership이라는 낯선 용어를 자주 만나게 됩니다. 왜 기존의 Property나 Association이 아니라 Feature라는 단어를 선택했을까요? 이번 글에서는 feature의 어원부터 영어에서의 의미, 그리고 KerML의 설계 철학까지 연결해서 살펴봅니다. 단어 하나에 담긴 SysML v2의 철학이 의외로 깊다는 것을 발견하게 될 것입니다.
-pubDate: 7월 16 2026
+pubDate: Jul 16 2026
 heroImage: ../../assets/whyKerMLusesFeature.png
 lang: ko
 translationKey: why-kerml-uses-feature

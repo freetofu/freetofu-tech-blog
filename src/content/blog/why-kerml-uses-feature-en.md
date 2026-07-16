@@ -1,7 +1,7 @@
 ---
 title: Why Does KerML Use the Term *Feature* Instead of *Property*?
 description: This article explores why KerML, the foundation of SysML v2, uses the term *feature* instead of the more familiar *property*. It traces the word’s origin and connects its everyday meaning—from facial features to a musician “featuring” on a song—to its role in system modeling. The article also explains how Feature Membership, featuring types, and Feature Typing work in a simple `Car`–`engine` example. Ultimately, it shows that a feature is not just a stored attribute, but a meaningful model element that helps constitute and characterize a type.
-pubDate: 7월 16 2026
+pubDate: Jul 16 2026
 heroImage: ../../assets/whyKerMLusesFeature.png
 lang: en
 translationKey: why-kerml-uses-feature
