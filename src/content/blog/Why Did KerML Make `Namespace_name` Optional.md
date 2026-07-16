@@ -3,6 +3,8 @@ title: Why Did KerML Make `Namespace::name` Optional?
 description: "In KerML, Namespace::name is optional (0..1) — a namespace need not be named. Working from the spec, I interpret why: a name is an address for locating an element, not the element's identity."
 pubDate: Jul14 2026
 heroImage: ../../assets/whyDidKerML.png
+lang: en
+translationKey: kerml-namespace-optional
 ---
 While reading the KerML specification, one question stood out.
 

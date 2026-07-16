@@ -13,8 +13,16 @@ type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+
+const allPosts = await getCollection('blog');
+const translation = post.data.translationKey
+	? allPosts.find(
+			(p) => p.data.translationKey === post.data.translationKey && p.id !== post.id,
+		)
+	: undefined;
+const translationSlug = translation?.id;
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post.data} translationSlug={translationSlug}>
 	<Content />
 </BlogPost>

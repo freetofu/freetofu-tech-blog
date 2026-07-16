@@ -3,6 +3,8 @@ title: The Wealth AI Creates — Will You Wait for It, or Build It Yourself?
 description: The wealthiest people in AI are warning us about AI inequality — and that itself tells us something. This essay examines why basic income and redistribution, while necessary, are not enough, and why the most practical response for individuals is to become creators of value rather than recipients of it.Lorem ipsum dolor sit amet
 pubDate: Jun14 2026
 heroImage: ../../assets/openai_sam_potrait.png
+lang: en
+translationKey: wealth-ai-creates
 ---
 ## The Ones Who Benefit Most Are Sounding the Alarm
 

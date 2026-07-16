@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
+                "file": "src/content/draft/why-kerml-uses-feature-ko-draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Did KerML Make `Namespace_name` Optional"
+              "title": "why-kerml-uses-feature-ko-draft"
             }
           }
         ]
@@ -186,40 +186,40 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
-    "src/components/BaseHead.astro.tmp.44764.7f3870019ada",
-    "package.json.tmp.44764.bb20a7ba4b32",
-    "src/layouts/BlogPost.astro.tmp.1528.8aa89106a8d9",
-    "src/content/blog/무제.md",
+    "templates/blog-post.md.tmp.43480.45508049335b",
+    "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md.tmp.43480.11e6130d4755",
+    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md.tmp.43480.5f0dc4e222ef",
+    "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md.tmp.43480.3f4463931847",
+    "src/pages/index.astro.tmp.43480.185861fde351",
+    "src/pages/blog/index.astro.tmp.43480.35452da3eed2",
+    "src/layouts/BlogPost.astro.tmp.43480.ab386a8394ee",
+    "src/layouts/BlogPost.astro.tmp.43480.8c8f26e8037e",
+    "src/layouts/BlogPost.astro.tmp.43480.efe3370a3886",
+    "src/pages/blog/[...slug].astro.tmp.43480.012658aba00a",
+    "src/content.config.ts.tmp.43480.52ba2e865d0b",
+    "src/assets/whyDidKerML.png",
+    "src/assets/seungwon Kim profile photo.jpg",
+    "src/assets/real impact of sysmlv2.png",
+    "src/assets/Pasted image 20260614214245.png",
+    "src/assets/openai_sam_potrait.png",
+    "src/assets/og-default.png",
+    "src/assets/blog-placeholder-about.jpg",
+    "src/assets/blog-placeholder-5.jpg",
+    "src/assets/blog-placeholder-3.jpg",
+    "src/assets/blog-placeholder-2.jpg",
     "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
+    "src/content/blog/무제.md",
     "templates/blog-post.md",
-    "templates/blog-post.md.tmp.46952.b68b232078e1",
-    "templates",
     "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
     "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
-    "src/assets/whyDidKerML.png",
     "src/content/draft/why_kerml_namespace_name_is_optional_en.md",
     "src/content/draft/2026-07-14 kerml_namespace_name_optional_blog_draft.md",
     "src/content/draft/2026-07-11 SysML v2 를 사용하는데 도구가 필요한 이유.md",
     "src/content/draft/2026-06-16 SysML v2 does not need ecosystem.md",
-    "src/components/BaseHead.astro.tmp.50140.23f6a187742d",
-    "src/assets/og-default.png",
-    "src/components/Header.astro.tmp.49272.41c1f1151143",
-    "src/pages/about.astro.tmp.48196.8d7ce900561c",
-    "src/consts.ts.tmp.48704.b07af82bae78",
-    "src/pages/index.astro.tmp.48704.b6b31ee72da6",
-    "src/pages/about.astro.tmp.48704.5214d98bad0c",
-    "src/assets/real impact of sysmlv2.png",
-    "src/assets/seungwon Kim profile photo.jpg",
-    "src/assets/251107cb-022226.jpg",
-    "src/assets/Pasted image 20260614214245.png",
     "src/content/backup/third-post.md",
     "src/content/backup/second-post.md",
     "src/content/backup/markdown-style-guide.md",
     "src/content/backup/first-post.md",
-    "src/assets/openai_sam_potrait.png",
-    "README.md",
-    "src/assets/blog-placeholder-1.jpg",
-    "src/assets/blog-placeholder-2.jpg",
-    "src/assets/blog-placeholder-3.jpg"
+    "README.md"
   ]
 }

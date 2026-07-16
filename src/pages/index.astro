@@ -9,6 +9,7 @@ import ProfilePhoto from '../assets/seungwon Kim profile photo.jpg';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 const posts = (await getCollection('blog'))
+	.filter((post) => post.data.lang !== 'ko')
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 5);
 
