@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/why-kerml-uses-feature-ko.md",
+                "file": "src/content/blog/sysml-v2-specialization-set-theory-en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why-kerml-uses-feature-ko"
+              "title": "sysml-v2-specialization-set-theory-en"
             }
           }
         ]
@@ -186,23 +186,26 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/content/blog/sysml-v2-specialization-set-theory-ko.md",
+    "src/content/blog/sysml-v2-specialization-set-theory-en.md",
+    "src/content/blog/sysml-v2-specialization-set-theory-en.md.tmp.33056.2857e34d279d",
+    "src/content/blog/sedN4woDb",
+    "src/styles/global.css.tmp.33056.c6e1675f8648",
+    "src/styles/global.css.tmp.33056.404188886bf0",
+    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
+    "src/assets/understandingSpecialization.png",
+    "src/content/blog/sysml-v2-specialization-set-theory-en.md.tmp.34824.b6dec8277e9d",
+    "src/content/blog/why-kerml-uses-feature-ko.md",
+    "src/content/blog/why-kerml-uses-feature-en.md",
     "templates/blog-post.md.tmp.45752.084651c9cec3",
     "src/content/blog/why-kerml-uses-feature-ko.md.tmp.45752.b00b539e9506",
     "src/content/blog/why-kerml-uses-feature-en.md.tmp.45752.5935e6504709",
-    "src/content/blog/why-kerml-uses-feature-en.md",
-    "src/content/blog/why-kerml-uses-feature-ko.md",
     "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
     "src/assets/whyKerMLusesFeature.png",
     "src/content/draft/why-kerml-uses-feature-en.md",
     "src/content/draft/why-kerml-uses-feature-ko-draft.md",
     "templates/blog-post.md.tmp.43480.45508049335b",
     "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md.tmp.43480.11e6130d4755",
-    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md.tmp.43480.5f0dc4e222ef",
-    "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md.tmp.43480.3f4463931847",
-    "src/pages/index.astro.tmp.43480.185861fde351",
-    "src/pages/blog/index.astro.tmp.43480.35452da3eed2",
-    "src/layouts/BlogPost.astro.tmp.43480.ab386a8394ee",
-    "src/layouts/BlogPost.astro.tmp.43480.8c8f26e8037e",
     "src/assets/whyDidKerML.png",
     "src/assets/seungwon Kim profile photo.jpg",
     "src/assets/real impact of sysmlv2.png",
@@ -211,9 +214,7 @@
     "src/assets/og-default.png",
     "src/assets/blog-placeholder-about.jpg",
     "src/assets/blog-placeholder-5.jpg",
-    "src/assets/blog-placeholder-3.jpg",
     "templates/blog-post.md",
-    "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
     "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
     "src/content/draft/why_kerml_namespace_name_is_optional_en.md",
     "src/content/draft/2026-07-14 kerml_namespace_name_optional_blog_draft.md",
