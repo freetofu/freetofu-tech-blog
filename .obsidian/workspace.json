@@ -188,6 +188,8 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
+    "src/content/blog/catia-magic-port-interface-modeling-en.mdx.tmp.38764.1b7374a40eda",
+    "src/content/blog/catia-magic-port-interface-modeling-ko.mdx.tmp.38764.b6ad36252b44",
     "src/content/blog/catia-magic-port-interface-modeling-en.mdx",
     "src/content/blog/catia-magic-port-interface-modeling-en.mdx.tmp.31776.1d11f5dad7b3",
     "src/content/blog/catia-magic-port-interface-modeling-ko.mdx.tmp.35292.796fcf25d051",
@@ -206,8 +208,6 @@
     "public/videos/3_sysmlv2_moving_elements.mp4",
     "public/videos/2_sysmlv2_modeling.mp4",
     "public/videos/1_sysmlv2_scripting.mp4",
-    "public/videos",
-    "src/assets/3_sysmlv2_moving_elements.mp4",
     "node_modules/@vercel/analytics/README.md",
     "node_modules/@emnapi/runtime/README.md",
     "node_modules/tslib/SECURITY.md",
