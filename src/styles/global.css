@@ -100,6 +100,13 @@ img {
 	height: auto;
 	border-radius: 8px;
 }
+video {
+	width: 100%;
+	height: auto;
+	border-radius: 8px;
+	margin: 0.5em 0 1em 0;
+	box-shadow: var(--box-shadow);
+}
 code {
 	padding: 2px 5px;
 	background-color: rgb(var(--gray-light));

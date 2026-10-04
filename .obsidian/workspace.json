@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/sysml-v2-specialization-set-theory-en.md",
+                "file": "src/content/blog/catia-magic-port-interface-modeling-ko.mdx",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sysml-v2-specialization-set-theory-en"
+              "title": "catia-magic-port-interface-modeling-ko"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -186,17 +188,26 @@
   },
   "active": "7541a131d2a04892",
   "lastOpenFiles": [
-    "node_modules/@vercel/analytics/package.json",
-    "node_modules/@vercel/analytics/LICENSE",
-    "node_modules/@vercel/analytics/test.setup.ts",
-    "node_modules/@vercel/analytics/dist/vue/index.d.ts",
-    "node_modules/@vercel/analytics/dist/sveltekit/index.d.ts",
-    "node_modules/@vercel/analytics/dist/server/index.d.ts",
-    "node_modules/@vercel/analytics/dist/remix/index.d.ts",
-    "node_modules/@vercel/analytics/dist/react/index.d.ts",
-    "node_modules/@vercel/analytics/dist/nuxt/runtime/index.d.ts",
-    "node_modules/@vercel/analytics/dist/nuxt/index.d.ts",
-    "node_modules/@vercel/analytics/dist/next/index.d.ts",
+    "src/content/blog/catia-magic-port-interface-modeling-en.mdx",
+    "src/content/blog/catia-magic-port-interface-modeling-en.mdx.tmp.31776.1d11f5dad7b3",
+    "src/content/blog/catia-magic-port-interface-modeling-ko.mdx.tmp.35292.796fcf25d051",
+    "src/assets/catia-port-interface-thumbnail.png",
+    "src/content/blog/sysml-v2-specialization-set-theory-en.md",
+    "src/content/blog/catia-magic-port-interface-modeling-ko.mdx",
+    "public/favicon.svg",
+    "src/content/draft/why_kerml_namespace_name_is_optional_en.md",
+    "src/content/draft/2026-07-11 SysML v2 를 사용하는데 도구가 필요한 이유.md",
+    "src/content/draft/2026-06-16 SysML v2 does not need ecosystem.md",
+    "src/content/draft/why-kerml-uses-feature-ko-draft.md",
+    "src/content/blog/sysml-v2-specialization-set-theory-ko.md",
+    "src/content/blog/catia-magic-port-interface-modeling-ko.md",
+    "src/content/blog/catia-magic-port-interface-modeling-ko.mdx.tmp.9508.e6c976236ab6",
+    "src/styles/global.css.tmp.9508.009777004d15",
+    "public/videos/3_sysmlv2_moving_elements.mp4",
+    "public/videos/2_sysmlv2_modeling.mp4",
+    "public/videos/1_sysmlv2_scripting.mp4",
+    "public/videos",
+    "src/assets/3_sysmlv2_moving_elements.mp4",
     "node_modules/@vercel/analytics/README.md",
     "node_modules/@emnapi/runtime/README.md",
     "node_modules/tslib/SECURITY.md",
@@ -206,8 +217,6 @@
     "node_modules/@rollup/rollup-linux-x64-musl/README.md",
     "node_modules/@img/sharp-linuxmusl-x64/README.md",
     "node_modules/@rollup/rollup-linux-x64-gnu/README.md",
-    "src/content/blog/sysml-v2-specialization-set-theory-ko.md",
-    "src/content/blog/sysml-v2-specialization-set-theory-en.md",
     "src/content/blog/The Real Impact of SysML v2 Isn't Syntax. It's Control..md",
     "src/assets/understandingSpecialization.png",
     "src/content/blog/why-kerml-uses-feature-ko.md",
@@ -215,22 +224,15 @@
     "src/content/blog/Why Did KerML Make `Namespace_name` Optional.md",
     "src/assets/whyKerMLusesFeature.png",
     "src/content/draft/why-kerml-uses-feature-en.md",
-    "src/content/draft/why-kerml-uses-feature-ko-draft.md",
     "src/assets/whyDidKerML.png",
     "src/assets/seungwon Kim profile photo.jpg",
     "src/assets/real impact of sysmlv2.png",
     "src/assets/Pasted image 20260614214245.png",
     "src/assets/openai_sam_potrait.png",
     "src/assets/og-default.png",
-    "src/assets/blog-placeholder-about.jpg",
-    "src/assets/blog-placeholder-5.jpg",
     "templates/blog-post.md",
     "src/content/blog/The Wealth AI Creates — Will You Wait for it, or Build It Yourself.md",
-    "src/content/draft/why_kerml_namespace_name_is_optional_en.md",
     "src/content/draft/2026-07-14 kerml_namespace_name_optional_blog_draft.md",
-    "src/content/draft/2026-07-11 SysML v2 를 사용하는데 도구가 필요한 이유.md",
-    "src/content/draft/2026-06-16 SysML v2 does not need ecosystem.md",
-    "src/content/backup/third-post.md",
-    "src/content/backup/second-post.md"
+    "src/content/backup/third-post.md"
   ]
 }

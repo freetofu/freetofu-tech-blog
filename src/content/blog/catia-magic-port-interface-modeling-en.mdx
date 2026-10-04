@@ -1,0 +1,49 @@
+---
+title: "Modeling Ports and Interfaces in SysML v2: Why Graphical Wins in CATIA Magic"
+description: In CATIA Magic, ports and interfaces are far easier to model graphically than textually. But a graphically created port belongs to the part usage, not the part def. Here is how to move it for reuse, and why the model stays intact.
+pubDate: Sep 24 2026
+lang: en
+translationKey: catia-magic-port-interface-modeling
+heroImage: ../../assets/catia-port-interface-thumbnail.png
+---
+When you build SysML v2 models in CATIA Magic, you can write the same model as text or draw it graphically. The tool supports both, and the difference between them really shows when you work with ports and interfaces. To put the conclusion first: for ports and interfaces, graphical modeling is far more convenient.
+
+## Textual modeling means writing everything out by hand
+
+Defining ports and interfaces in text takes a lot of manual work. You declare the port yourself, define the interface, and write out the flow that runs between them, one by one. Completing a single connection takes several lines, and the more elements you add, the more that repetition piles up.
+
+The video below shows the process of writing ports and interfaces in text. You can see each declaration being typed out by hand.
+
+<video src="/videos/1_sysmlv2_scripting.mp4" autoplay muted loop playsinline controls></video>
+
+## Graphical modeling generates everything with drag and drop
+
+In the graphical view, by contrast, you just connect elements by dragging and dropping, and the port, interface, and flow are all generated at once. What used to take several lines of text is done in a single action. With the repetitive typing gone, building out a model gets noticeably faster.
+
+As in the video below, dragging two elements into a connection creates the ports, interface, and flow automatically.
+
+<video src="/videos/2_sysmlv2_modeling.mp4" autoplay muted loop playsinline controls></video>
+
+## A generated port belongs to the part usage, not the part def
+
+Convenient as it is, there is one thing worth knowing. When you connect graphically, the port is created under the body of the part usage. In other words, no port is created on the part def.
+
+A part def is the definition meant for reuse, while a part usage is where that definition is actually put to use. If a graphically created port lives only on the usage side, the part def, the very thing you would reuse, ends up with no port on it.
+
+This becomes a problem in a specific situation: when you want to reuse a part def along with the port used in it. If the port exists only on the part usage, it is hard to reuse at the part def level.
+
+## The fix: move the port in the containment tree
+
+The fix is simple. In the model tree (containment tree), just move the port from the part usage to the part def. Even after the move, the model does not break; it stays intact. The interfaces and flows you already connected stay alive too.
+
+The video below shows this. Even as the port is dragged under the part def in the tree, the model structure does not fall apart.
+
+<video src="/videos/3_sysmlv2_moving_elements.mp4" autoplay muted loop playsinline controls></video>
+
+So you can draw quickly in the graphical view first, then move only the ports that need to be reused up to the part def. Getting both fast authoring and reusability is what makes this especially nice from a user's standpoint.
+
+## In closing: the two are complementary, not competing
+
+In the end, textual and graphical modeling are not a case of one replacing the other. Each has clear strengths and weaknesses, and they complement each other. The port-and-interface work above is a good example: graphical modeling builds elements quickly with a single drag, and the resulting model can then be tidied up in the model tree to secure reusability. Rather than sticking to one method, moving between the two as the situation calls for is what feels most natural in practice.
+
+That is why it matters when you choose a tool, too. Only a tool that properly supports both textual and graphical modeling lets you pick whichever is more convenient for the task at hand. A tool that supports only one side ends up forcing the less convenient method on the user. From the standpoint of user convenience, choosing a tool that supports both is the effective call.
